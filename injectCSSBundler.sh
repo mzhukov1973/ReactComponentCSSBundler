@@ -17,7 +17,7 @@
 
 #Attempts to inject CSS Bundler into a custom component.
 #(Full auto mode.)
-
+VERSION='0.0.1'
 
 #------Options------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Most options are to be guessed, the only required option is the path to the components' file. 

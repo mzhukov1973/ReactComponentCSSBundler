@@ -17,7 +17,7 @@
 
 #Attempts to generate the object to be inserted into the component, together with all necessary accompanying routines and installation instructions, but does not attempt the insertion.
 #(Manual mode.)
-
+VERSION='0.0.1'
 
 
 #------Options------------------------------------------------------------------------------------------------------------------------------------------------------------------
